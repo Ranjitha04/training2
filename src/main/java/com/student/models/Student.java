@@ -2,7 +2,7 @@ package com.student.models;
 
 public class Student {
 
-	private String usn;
+	String usn;
 	private String name;
 	private String dob;
 	private String course;
